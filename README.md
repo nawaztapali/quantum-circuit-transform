@@ -3,7 +3,6 @@ Concept for quantum circuit simplification.
 
 # Proof of Concept: Quantum Circuit Graph Transformation
 
-"""
 ## What I did and why
 
 This proof-of-concept implements a tiny slice of a quantum circuit transformation pipeline. It:
