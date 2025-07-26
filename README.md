@@ -5,7 +5,7 @@ Concept for quantum circuit simplification.
 
 ### What I did and why
 
-This proof-of-concept implements a tiny slice of a quantum circuit transformation pipeline. It:
+This implements a tiny slice of a quantum circuit transformation pipeline. It:
 
 - Represents a quantum circuit as a simple Python list of gate names.
 - Applies one rewrite rule: two consecutive Hadamard (H) gates cancel each other.
