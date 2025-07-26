@@ -1,7 +1,6 @@
 # quantum-circuit-transform
 Concept for quantum circuit simplification.
 
-# README.md
 # Proof of Concept: Quantum Circuit Graph Transformation
 
 """
